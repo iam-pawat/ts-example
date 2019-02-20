@@ -1,0 +1,18 @@
+insert into temp_mob_post_nas (OBJECTID, DOCUMENTNO, DOCUMENTDATE, BANNO, INVOICENO, PAIDAMOUNT, NAS_TRANS_ID, STATUS, UPDATEDATE, SYSTEM_NAME, ERRORCODE, ERROR_MESSAGE, RETRY, PROCESS_ID, CREATEDATE)
+values ('1zccd9myiry80001zccd9myiry80001z', 'eAL100310', to_date('11-02-2019 15:45:00', 'dd-mm-yyyy hh24:mi:ss'), '200077072', '', '94.13', '9b31db84-8554-4910-b7cd-14b620cbd160', 'S', to_date('11-02-2019 16:00:00', 'dd-mm-yyyy hh24:mi:ss'), 'POST_NAS_BATCH', '0', 'Success', 1, 'mob-blacklist-process-25-ntv7z:10.131.0.99', to_date('11-02-2019 16:00:00', 'dd-mm-yyyy hh24:mi:ss'));
+
+insert into temp_mob_post_nas (OBJECTID, DOCUMENTNO, DOCUMENTDATE, BANNO, INVOICENO, PAIDAMOUNT, NAS_TRANS_ID, STATUS, UPDATEDATE, SYSTEM_NAME, ERRORCODE, ERROR_MESSAGE, RETRY, PROCESS_ID, CREATEDATE)
+values ('20k34x6a90m800020k34x6a90m800020', 'eAL100311', to_date('11-02-2019 15:45:00', 'dd-mm-yyyy hh24:mi:ss'), '200077072', '', '265.53', '0db2c2f6-ba41-4e12-8695-185e214c6ac3', 'S', to_date('11-02-2019 16:00:01', 'dd-mm-yyyy hh24:mi:ss'), 'POST_NAS_BATCH', '0', 'Success', 1, 'mob-blacklist-process-25-kjdrc:10.128.0.18', to_date('11-02-2019 16:00:00', 'dd-mm-yyyy hh24:mi:ss'));
+
+insert into temp_mob_post_nas (OBJECTID, DOCUMENTNO, DOCUMENTDATE, BANNO, INVOICENO, PAIDAMOUNT, NAS_TRANS_ID, STATUS, UPDATEDATE, SYSTEM_NAME, ERRORCODE, ERROR_MESSAGE, RETRY, PROCESS_ID, CREATEDATE)
+values ('1zivl2vnjj400001zivl2vnjj400001z', 'eAL100310', to_date('11-02-2019 15:45:00', 'dd-mm-yyyy hh24:mi:ss'), '200077049', '', '94.13', 'ecb1a1ab-7e22-40ec-8a5a-4933cb697e14', 'S', to_date('11-02-2019 16:57:01', 'dd-mm-yyyy hh24:mi:ss'), 'POST_NAS_BATCH', '0', 'Success', 1, 'mob-blacklist-process-27-wpbbz:10.128.0.30', to_date('11-02-2019 16:57:00', 'dd-mm-yyyy hh24:mi:ss'));
+
+insert into temp_mob_post_nas (OBJECTID, DOCUMENTNO, DOCUMENTDATE, BANNO, INVOICENO, PAIDAMOUNT, NAS_TRANS_ID, STATUS, UPDATEDATE, SYSTEM_NAME, ERRORCODE, ERROR_MESSAGE, RETRY, PROCESS_ID, CREATEDATE)
+values ('20qlyxvlzi8000020qlyxvlzi8000020', 'eAL100311', to_date('11-02-2019 15:45:00', 'dd-mm-yyyy hh24:mi:ss'), '200077529', '', '265.53', '13a91aba-8d59-4b06-94e5-0554cd590778', 'S', to_date('11-02-2019 16:57:01', 'dd-mm-yyyy hh24:mi:ss'), 'POST_NAS_BATCH', '0', 'Success', 1, 'mob-blacklist-process-27-bvvl8:10.131.0.154', to_date('11-02-2019 16:57:00', 'dd-mm-yyyy hh24:mi:ss'));
+
+insert into temp_mob_post_nas (OBJECTID, DOCUMENTNO, DOCUMENTDATE, BANNO, INVOICENO, PAIDAMOUNT, NAS_TRANS_ID, STATUS, UPDATEDATE, SYSTEM_NAME, ERRORCODE, ERROR_MESSAGE, RETRY, PROCESS_ID, CREATEDATE)
+values ('qanoebgek00000qanoebgek00000qano', 'eAL100311', to_date('11-02-2019 15:45:00', 'dd-mm-yyyy hh24:mi:ss'), '200077077', '', '265.53', 'a068a33e-fa23-45e0-aff4-a1f8c5799d2b', 'F', to_date('11-02-2019 17:57:01', 'dd-mm-yyyy hh24:mi:ss'), 'POST_NAS_BATCH', 'VNSBKA2010004', '[VNSBKA2010004] [NOT_FOUND_CODE] [Data ban : 200077077 not found in {1} system.]', 1, 'mob-blacklist-process-29-n4mfw:10.128.0.31', to_date('11-02-2019 17:57:00', 'dd-mm-yyyy hh24:mi:ss'));
+
+insert into temp_mob_post_nas (OBJECTID, DOCUMENTNO, DOCUMENTDATE, BANNO, INVOICENO, PAIDAMOUNT, NAS_TRANS_ID, STATUS, UPDATEDATE, SYSTEM_NAME, ERRORCODE, ERROR_MESSAGE, RETRY, PROCESS_ID, CREATEDATE)
+values ('rgkh8ta9k4g000rgkh8ta9k4g000rgkh', 'eAL100310', to_date('11-02-2019 15:45:00', 'dd-mm-yyyy hh24:mi:ss'), '200077077', '', '94.13', '3056c814-a255-495f-b75e-d64baef06255', 'F', to_date('11-02-2019 17:57:01', 'dd-mm-yyyy hh24:mi:ss'), 'POST_NAS_BATCH', 'VNSBKA2010004', '[VNSBKA2010004] [NOT_FOUND_CODE] [Data ban : 200077077 not found in {1} system.]', 1, 'mob-blacklist-process-29-dxc75:10.131.0.166', to_date('11-02-2019 17:57:00', 'dd-mm-yyyy hh24:mi:ss'));
+
